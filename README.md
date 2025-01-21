@@ -66,4 +66,4 @@ ros2 service type /add_two_ints
 ros2 interface show example_interfaces/srv/AddTwoInts
 
 ### Demo Video:
-[click here]([www.google.com](https://www.youtube.com/watch?v=679Axf3pNbk))
+[[click here]([www.google.com](https://www.youtube.com/watch?v=679Axf3pNbk))](https://www.youtube.com/watch?v=679Axf3pNbk)
