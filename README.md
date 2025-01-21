@@ -11,7 +11,7 @@ Python nodes using rclpy.
 C++ nodes using rclcpp.
 
 ## Prerequisites
-ROS 2 Installation: ROS 2 (Foxy) is installed on Ubuntu 24.04 distribution.
+ROS 2 Installation: ROS 2 (Jazzy) is installed on Ubuntu 24.04 distribution.
 Development Tools: Necessary build tools like colcon for building the packages.
 
 ## Installation
