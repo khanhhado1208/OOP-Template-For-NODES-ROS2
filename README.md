@@ -16,15 +16,18 @@ Development Tools: Necessary build tools like colcon for building the packages.
 
 ## Installation
 1. Clone the Repository:
+   
 mkdir -p ~/ros2_ws/src
+
 cd ~/ros2_ws/src
+
 git clone https://github.com/khanhhado1208/Simple-Template-Server-Client-ROS2.git
 
-2. Build the Packages:
+3. Build the Packages:
 cd ~/ros2_ws
 colcon build
 
-3. Source the Setup Script:
+4. Source the Setup Script:
 source install/setup.bash
 
 ## Running the Python Nodes
